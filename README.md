@@ -44,7 +44,7 @@ Meta Questで筋トレとボディビルのポージングを体験する、IVRC
 元プロジェクトの設定はUnity `6000.3.10f1`、Meta XR SDK `203.0.1`、Meta XR Interaction SDK OVR `203.0.0`、OpenXR `1.16.1`、Unity Meta OpenXR `2.4.0` です。Meta Movement SDKも使用しています。詳細な依存関係は [manifest.json](Packages/manifest.json) と [packages-lock.json](Packages/packages-lock.json) に記録しています。
 
 ```bash
-git clone https://github.com/Daiki-Hashimoto-NAIST/InstantMuscle-Portfolio.git
+git clone https://github.com/Daiki-Hashimoto-NAIST/InstantMuscle-Shared.git
 ```
 
 コードを読むだけならUnityは不要です。Unityで復元する場合は、上記バージョンで開いてパッケージを取得したうえで、[除外した素材と復元時の注意](docs/PUBLIC_EXPORT.md)を確認してください。SDKサンプルや各素材の再取得、シーン・Prefabへの再割り当てが必要です。
