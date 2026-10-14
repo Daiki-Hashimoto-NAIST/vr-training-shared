@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4ec4b18493d2ed46b7384b757ff4831, type: 3}
+  m_Name: SingleBicepsProfile
+  m_EditorClassIdentifier: Assembly-CSharp::IVRC.PosingScoreProfile
+  _displayName: SINGLE BICEPS
+  _instruction: RIGHT FIST HIGH - LEFT HAND ACROSS THE WAIST
+  _countdownSeconds: 3
+  _target:
+    LeftHandPositionFromHeadNormalized: {x: -0.12793775, y: -0.05386719, z: 0.039293177}
+    RightHandPositionFromHeadNormalized: {x: 0.39469028, y: 0.07642702, z: 0.057063058}
+    HeadEulerDegreesInStageFrame: {x: 337.43332, y: 20.23839, z: 1.1162397}
+    LeftHandEulerDegreesInStageFrame: {x: 328.28058, y: 86.33526, z: 291.49103}
+    RightHandEulerDegreesInStageFrame: {x: 323.3855, y: 48.53904, z: 92.37053}
+  _guideElbows:
+    LeftPoleFromShoulderNormalized: {x: -0.11618999, y: -0.029568758, z: 0.041170582}
+    RightPoleFromShoulderNormalized: {x: 0.12886626, y: 0.05463551, z: 0.01846227}
+  _scaleBasis: 0
+  _minimumBodyScaleMeters: 0.25
+  _tolerances:
+    PositionPerfect: 0.08
+    PositionMiss: 0.3
+    RotationPerfectDegrees: 30
+    RotationMissDegrees: 150
+    SymmetryPerfect: 0.08
+    SymmetryMiss: 0.3
+  _scoreHandRotation: 0
+  _weights:
+    Position: 0.55
+    Rotation: 0.35
+    Symmetry: 0.1
+    Hold: 0.35
+  _hold:
+    RequiredSeconds: 3
+    MinimumSpatialScore: 75
+    BreakGraceSeconds: 1

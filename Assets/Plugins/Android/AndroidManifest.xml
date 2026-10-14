@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" android:installLocation="auto" xmlns:horizonos="http://schemas.horizonos/sdk">
+  <uses-permission android:name="android.permission.RECORD_AUDIO" tools:node="remove" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+  <uses-permission android:name="android.permission.NEARBY_WIFI_DEVICES" android:usesPermissionFlags="neverForLocation" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" android:maxSdkVersion="32" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" android:maxSdkVersion="32" />
+  <uses-feature android:name="android.hardware.microphone" tools:node="remove" />
+  <application android:label="@string/app_name" android:icon="@mipmap/app_icon" android:allowBackup="false">
+    <activity android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" android:configChanges="locale|fontScale|keyboard|keyboardHidden|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|touchscreen|uiMode" android:launchMode="singleTask" android:name="com.unity3d.player.UnityPlayerGameActivity" android:excludeFromRecents="true" android:exported="true">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+        <category android:name="com.oculus.intent.category.VR" />
+      </intent-filter>
+      <meta-data android:name="com.oculus.vr.focusaware" android:value="true" />
+    </activity>
+    <meta-data android:name="unityplayer.SkipPermissionsDialog" android:value="true" />
+    <meta-data android:name="com.oculus.ossplash.background" android:value="black" />
+    <meta-data android:name="com.oculus.telemetry.project_guid" android:value="65f3ba07-d9d4-4b1b-812b-08d2bc6bec04" />
+    <meta-data android:name="com.oculus.supportedDevices" android:value="quest2|questpro|quest3|quest3s" tools:replace="android:value" />
+    <meta-data android:name="com.oculus.handtracking.frequency" android:value="LOW" />
+  </application>
+  <uses-feature android:name="android.hardware.vr.headtracking" android:version="1" android:required="true" />
+  <horizonos:uses-horizonos-sdk horizonos:minSdkVersion="60" horizonos:targetSdkVersion="203" />
+  <uses-feature android:name="oculus.software.handtracking" android:required="false" />
+  <uses-permission android:name="com.oculus.permission.HAND_TRACKING" />
+  <uses-permission android:name="com.oculus.permission.USE_ANCHOR_API" />
+  <uses-feature android:name="com.oculus.software.body_tracking" android:required="false" />
+  <uses-permission android:name="com.oculus.permission.BODY_TRACKING" />
+  <uses-feature android:name="oculus.software.face_tracking" android:required="false" />
+  <uses-permission android:name="com.oculus.permission.FACE_TRACKING" />
+  <uses-permission android:name="com.oculus.permission.USE_SCENE" />
+</manifest>

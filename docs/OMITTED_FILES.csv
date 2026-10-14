@@ -1,0 +1,1065 @@
+path,reason
+.agents/skills/instant-macho-game-design/SKILL.md,ローカル開発ツール
+.agents/skills/instant-macho-game-design/agents/openai.yaml,ローカル開発ツール
+.agents/skills/instant-macho-game-design/references/instant-macho-checklist.md,ローカル開発ツール
+.agents/skills/instant-macho-game-design/references/sakurai-principles.md,ローカル開発ツール
+.claude/settings.json,ローカル開発ツール
+.claude/skills/uloop-clear-console/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-compile/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-control-play-mode/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/asset-operations.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/batch-operations.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/cleanup-operations.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/material-operations.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/playmode-automation-powershell.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/playmode-automation-zsh.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/playmode-inspection.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/playmode-ui-controls.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/prefab-operations.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/scene-operations.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/scriptableobject.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/selection-operations.md,ローカル開発ツール
+.claude/skills/uloop-execute-dynamic-code/references/undo-operations.md,ローカル開発ツール
+.claude/skills/uloop-find-game-objects/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-focus-window/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-get-hierarchy/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-get-logs/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-launch/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-raycast/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-record-input/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-record-input/references/deterministic-replay.md,ローカル開発ツール
+.claude/skills/uloop-replay-input/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-replay-input/references/deterministic-replay.md,ローカル開発ツール
+.claude/skills/uloop-run-tests/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-screenshot/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-screenshot/references/annotated-elements.md,ローカル開発ツール
+.claude/skills/uloop-simulate-keyboard/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-simulate-mouse-input/SKILL.md,ローカル開発ツール
+.claude/skills/uloop-simulate-mouse-ui/SKILL.md,ローカル開発ツール
+.gitattributes,開発補助・試作・環境固有ファイル
+.vsconfig,開発補助・試作・環境固有ファイル
+AGENTS.md,開発補助・試作・環境固有ファイル
+Assets/CompositionLayers/UserSettings.meta,除外した素材・空フォルダのメタデータ
+Assets/IVRC/Audio.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/Whistle_TrainingEnd.wav,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/Whistle_TrainingEnd.wav.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/dragon-studio-pop-402324.mp3,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/dragon-studio-pop-402324.mp3.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/driken5482-crowd-cheer-in-school-auditorium-236699.mp3,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/driken5482-crowd-cheer-in-school-auditorium-236699.mp3.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/freesound_community-046559_crowd-cheerwav-67948.mp3,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/freesound_community-046559_crowd-cheerwav-67948.mp3.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/freesound_community-metal-whistle-6121.mp3,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/freesound_community-metal-whistle-6121.mp3.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/kulakovka-drum-and-bass-277921.mp3,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/kulakovka-drum-and-bass-277921.mp3.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/universfield-level-up-03-199576.mp3,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/universfield-level-up-03-199576.mp3.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/universfield-new-notification-062-494544.mp3,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/universfield-new-notification-062-494544.mp3.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/universfield-punch-impact-hit-567196.mp3,音源素材（再配布条件未確認）
+Assets/IVRC/Audio/universfield-punch-impact-hit-567196.mp3.meta,音源素材（再配布条件未確認）
+Assets/IVRC/Avatar.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters-metadata.asset,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters-metadata.asset.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Eye_Brown.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Eye_Brown.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Eye_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Eye_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Hair_1_BaseColor.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Hair_1_BaseColor.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Hair_1_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Hair_1_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Superhero_Male_Dark.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Superhero_Male_Dark.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Superhero_Male_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Superhero_Male_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Superhero_Male_Roughness.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbm/T_Superhero_Male_Roughness.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbx,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.fbx.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.json,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters.json.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters_material.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters_material/MI_Eyes.mat,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters_material/MI_Eyes.mat.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters_material/MI_Hair_1.mat,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters_material/MI_Hair_1.mat.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters_material/MI_Superhero_Male.mat,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/2_UniversalBaseCharacters_material/MI_Superhero_Male.mat.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/FBXImporter.preset,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/FBXImporter.preset.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Eyes.mat,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Eyes.mat.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Hair_1.mat,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Hair_1.mat.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Hair_2.mat,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Hair_2.mat.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Superhero_Female.mat,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Superhero_Female.mat.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Superhero_Male.mat,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Materials/MI_Superhero_Male.mat.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Eye_Brown.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Eye_Brown.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Eye_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Eye_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Hair_1_BaseColor.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Hair_1_BaseColor.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Hair_1_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Hair_1_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Hair_2_BaseColor.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Hair_2_BaseColor.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Hair_2_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Hair_2_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Female_Dark_BaseColor.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Female_Dark_BaseColor.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Female_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Female_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Female_Roughness.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Female_Roughness.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Male_Dark.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Male_Dark.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Male_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Male_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Male_Roughness.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/Textures/T_Superhero_Male_Roughness.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale-metadata.asset,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale-metadata.asset.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Eye_Brown.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Eye_Brown.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Eye_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Eye_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Hair_2_BaseColor.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Hair_2_BaseColor.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Hair_2_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Hair_2_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Superhero_Female_Dark_BaseColor.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Superhero_Female_Dark_BaseColor.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Superhero_Female_Normal.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Superhero_Female_Normal.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Superhero_Female_Roughness.png,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbm/T_Superhero_Female_Roughness.png.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbx,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.fbx.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.json,アバター素材（再配布条件未確認）
+Assets/IVRC/Avatar/UniversalBaseCharacters_famale.json.meta,アバター素材（再配布条件未確認）
+Assets/IVRC/Materials/AudienceLightPoint.png,素材の元データ（再配布条件未確認）
+Assets/IVRC/Materials/AudienceLightPoint.png.meta,素材の元データ（再配布条件未確認）
+Assets/IVRC/Models.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/BenchPress.fbx,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/BenchPress.fbx.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbm.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbm/10kg_Abused_Metallic.1001.png,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbm/10kg_Abused_Metallic.1001.png.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbm/10kg_Abused_Normal.1001.png,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbm/10kg_Abused_Normal.1001.png.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbm/10kg_Abused_Roughness.1001.png,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbm/10kg_Abused_Roughness.1001.png.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbx,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.fbx.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.mat,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Hex Dumbbell 10kg.mat.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_BenchLeather.mat,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_BenchLeather.mat.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_Chrome.mat,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_Chrome.mat.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_PaintedBlack.mat,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_PaintedBlack.mat.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_Plastic.mat,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_Plastic.mat.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_Rubber.mat,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_Rubber.mat.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_Treadmill.mat,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Materials/Gym_Treadmill.mat.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Training_Bench_final.fbx,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/Training_Bench_final.fbx.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/TreadMill.fbm.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/TreadMill.fbm/Treadmill.png,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/TreadMill.fbm/Treadmill.png.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/TreadMill.fbx,モデル素材（再配布条件未確認）
+Assets/IVRC/Models/TreadMill.fbx.meta,モデル素材（再配布条件未確認）
+Assets/IVRC/Stage/Theater.fbx,素材の元データ（再配布条件未確認）
+Assets/IVRC/Stage/Theater.fbx.meta,素材の元データ（再配布条件未確認）
+Assets/IVRC/ThirdParty/Mixamo.meta,Mixamo素材（公開禁止の記載あり）
+Assets/IVRC/ThirdParty/Mixamo/README.md,Mixamo素材（公開禁止の記載あり）
+Assets/IVRC/ThirdParty/Mixamo/README.md.meta,Mixamo素材（公開禁止の記載あり）
+Assets/IVRC/ThirdParty/Mixamo/StopWalking.fbx,Mixamo素材（公開禁止の記載あり）
+Assets/IVRC/ThirdParty/Mixamo/StopWalking.fbx.meta,Mixamo素材（公開禁止の記載あり）
+Assets/IVRC/ThirdParty/Mixamo/Walking.fbx,Mixamo素材（公開禁止の記載あり）
+Assets/IVRC/ThirdParty/Mixamo/Walking.fbx.meta,Mixamo素材（公開禁止の記載あり）
+Assets/IVRC/UI.meta,除外した素材・空フォルダのメタデータ
+Assets/IVRC/UI/ControllerButtonGuide.png,素材の元データ（再配布条件未確認）
+Assets/IVRC/UI/ControllerButtonGuide.png.meta,素材の元データ（再配布条件未確認）
+Assets/IVRC/call.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/Font.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/Font/RocknRollOne-Regular SDF.asset,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/Font/RocknRollOne-Regular SDF.asset.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/Font/RocknRollOne-Regular.ttf,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/Font/RocknRollOne-Regular.ttf.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/Fukidashi.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/Fukidashi/e1394_1.png,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/Fukidashi/e1394_1.png.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/87番デカいデカすぎる.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/87番デカいデカすぎる.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/よっ阿修羅像.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/よっ阿修羅像.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/キレてるよ.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/キレてるよ.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/ナイスバルク.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/ナイスバルク.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/上腕二頭筋チョモランマ.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/上腕二頭筋チョモランマ.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/世界一ノーベル筋肉賞.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/世界一ノーベル筋肉賞.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/仕上がってるよ.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/仕上がってるよ.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/採れたて新鮮肩メロン.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/採れたて新鮮肩メロン.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/美しい.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/美しい.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/背中に羽が生えてるよ.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/背中に羽が生えてるよ.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/背中に鬼神が宿ってる.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/背中に鬼神が宿ってる.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/背中ユーラシア大陸.wav,音声・画像・フォント素材（再配布条件未確認）
+Assets/IVRC/call/voice/背中ユーラシア大陸.wav.meta,音声・画像・フォント素材（再配布条件未確認）
+Assets/Readme.asset,開発補助・試作・環境固有ファイル
+Assets/Readme.asset.meta,開発補助・試作・環境固有ファイル
+Assets/Resources/OVRPlatformToolSettings.asset,開発補助・試作・環境固有ファイル
+Assets/Resources/OVRPlatformToolSettings.asset.meta,開発補助・試作・環境固有ファイル
+Assets/Samples.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Animations.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Animations/WaveAnimController.controller,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Animations/WaveAnimController.controller.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Animations/Waving.fbx,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Animations/Waving.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticEyeMaterial.mat,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticEyeMaterial.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticEyebrowMaterial.mat,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticEyebrowMaterial.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticEyelashMaterial.mat,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticEyelashMaterial.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticHandMaterial.mat,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticHandMaterial.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticSkinMaterial.mat,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticSkinMaterial.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticTeethMaterial.mat,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticTeethMaterial.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticTongueThroatMaterial.mat,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticTongueThroatMaterial.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticWetsuitMaterial.mat,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Materials/RealisticWetsuitMaterial.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Models.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Models/Realistic-metadata.asset,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Models/Realistic-metadata.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Models/Realistic.fbx,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Models/Realistic.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Models/Realistic.json,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Models/Realistic.json.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Prefabs.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Prefabs/RealisticCharacter.prefab,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Prefabs/RealisticCharacter.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Prefabs/RealisticCharacterMirrored.prefab,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Prefabs/RealisticCharacterMirrored.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyeball_Color.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyeball_Color.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyebrow_Color.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyebrow_Color.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyebrow_Normal.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyebrow_Normal.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyebrow_Spec.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyebrow_Spec.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyelash_Color.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyelash_Color.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyelash_Normal.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyelash_Normal.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyelash_Spec.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Eyelash_Spec.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Hand_AO.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Hand_AO.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Hand_Base_Color.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Hand_Base_Color.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Hand_Normal.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Hand_Normal.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Hand_Specular.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Hand_Specular.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Neutral_AO.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Neutral_AO.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Neutral_Colour_mix.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Neutral_Colour_mix.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Neutral_Normal_mix.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Neutral_Normal_mix.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Neutral_Spec.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Neutral_Spec.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Teeth_Colour2.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Teeth_Colour2.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Teeth_Normal.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Teeth_Normal.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Teeth_Specular.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Teeth_Specular.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Colour.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Colour.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Throat_AO.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Throat_AO.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Throat_Colour.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Throat_Colour.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Throat_Normal.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Throat_Normal.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Throat_Specular.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/Tongue_Throat_Specular.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/tongue_Normal.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/tongue_Normal.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/tongue_Specular.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/tongue_Specular.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/wetsuit_AO.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/wetsuit_AO.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/wetsuit_Basecolor.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/wetsuit_Basecolor.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/wetsuit_Normal.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/wetsuit_Normal.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/wetsuit_Specular.png,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Body/Textures/wetsuit_Specular.png.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Scenes.meta,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Scenes/MovementBody.unity,SDKサンプル（別途取得）
+Assets/Samples/Meta XR Movement SDK/203.0.0/Body Tracking Samples/Scenes/MovementBody.unity.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/ControllerPokeSphereScale.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/ControllerPokeSphereScale.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/HighlightInteractionColor.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/HighlightInteractionColor.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/HighlightStrengthInteraction.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/HighlightStrengthInteraction.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/PokeSphereColor.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/PokeSphereColor.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/PokeSphereInteraction.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/AffordanceThemes/PokeSphereInteraction.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Animations.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Animations/ArrowBounce.anim,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Animations/ArrowBounce.anim.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Animations/Climb Teleport Arrow.controller,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Animations/Climb Teleport Arrow.controller.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoScene.unity,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoScene.unity.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/AffordanceThemes.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/AffordanceThemes/InteractionColor.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/AffordanceThemes/InteractionColor.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Audio.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Audio/Button Pop.wav,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Audio/Button Pop.wav.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/Concrete Dark Blue.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/Concrete Dark Blue.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/Concrete Grey.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/Concrete Grey.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/Concrete Light Blue.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/Concrete Light Blue.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/Lit White.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/Lit White.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/MaterialPipelineHandler.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Materials/MaterialPipelineHandler.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster_Long.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Blaster_Long.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Cylinder.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Cylinder.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Pyramid.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Pyramid.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Tapered_Cylinder.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Tapered_Cylinder.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Torus.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Torus.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Torus_Cut.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/Primitive_Torus_Cut.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/PushButton.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Models/PushButton.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Climb Sample.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Climb Sample.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/ClimbTeleportReticle.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/ClimbTeleportReticle.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Climbing Wall.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Climbing Wall.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Ladder.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Ladder.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Multi Floor Ladder.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Multi Floor Ladder.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Single Floor Ladder.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Climb/Single Floor Ladder.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Far Grab Samples.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Far Grab Samples.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Gaze Interactables.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Gaze Interactables.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/GazeActivationZone.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/GazeActivationZone.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables Sample.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables Sample.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Blaser-Long.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Blaser-Long.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Blaser.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Blaser.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Confetti.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Confetti.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Cube.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Cube.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Cylinder.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Cylinder.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Pot.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Pot.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Push Button.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Push Button.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Torus-Cut.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Torus-Cut.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Torus.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Interactables/Torus.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/InteractionAffordance.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/InteractionAffordance.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Poke Interactions Sample.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Poke Interactions Sample.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleport.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleport/Snap Teleport Anchor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleport/Snap Teleport Anchor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleport/Teleport Anchor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleport/Teleport Anchor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleport/Teleport Area.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleport/Teleport Area.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleportation Environment.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/Teleportation Environment.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI Sample.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI Sample.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Dropdown.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Dropdown.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Icon Button.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Icon Button.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Icon Toggle.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Icon Toggle.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Interactive Controls.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Interactive Controls.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/MinMaxSlider.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/MinMaxSlider.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/ModalSingleButton.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/ModalSingleButton.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Scroll UI Sample.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Scroll UI Sample.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Text Toggle.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/Text Toggle.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/TextButton.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Prefabs/UI/TextButton.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Scripts.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Scripts/IncrementUIText.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Scripts/IncrementUIText.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Scripts/MultiAnchorTeleportReticle.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Scripts/MultiAnchorTeleportReticle.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Settings.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Settings/GazeTeleportAnchorFilter.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Settings/GazeTeleportAnchorFilter.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Settings/TeleportDestinationSettings.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Settings/TeleportDestinationSettings.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Asset.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Asset.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Checkmark.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Checkmark.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Circle_60x60 Outline 4.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Circle_60x60 Outline 4.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Circle_60x60_Horizontal.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Circle_60x60_Horizontal.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Forward.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Forward.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/LegibilityMask.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/LegibilityMask.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Round Radius 4 Outline.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Round Radius 4 Outline.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Round Radius 4.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Sprites/Round Radius 4.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Textures.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Textures/Concrete_Albedo.tif,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Textures/Concrete_Albedo.tif.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Textures/Concrete_Metallic.tif,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Textures/Concrete_Metallic.tif.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Textures/Concrete_Normal.tif,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/DemoSceneAssets/Textures/Concrete_Normal.tif.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Editor.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Editor/Scripts.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Editor/Scripts/StarterAssetsSampleProjectValidation.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Editor/StarterAssets.Editor.asmdef,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Editor/StarterAssets.Editor.asmdef.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Filters.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Filters/AnyGazedAtTeleportAnchorFilter.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Filters/AnyGazedAtTeleportAnchorFilter.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Controller_Grey.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Controller_Grey.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Controller_White.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Controller_White.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Flat Blue.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Flat Blue.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/FresnelHighlight.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/FresnelHighlight.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Interactable.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Interactable.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/MaterialPipelineHandler.asset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/MaterialPipelineHandler.asset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Telport Anchor.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Telport Anchor.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Telport Area.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/Telport Area.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/UI-NoZTest.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Materials/UI-NoZTest.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/BlinkVisual.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/BlinkVisual.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/Pinch_Pointer_LOD0.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/Pinch_Pointer_LOD0.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/Primitive_Cylinder.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/Primitive_Cylinder.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/Primitive_Wedge.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/Primitive_Wedge.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/Reticle_Torus.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/Reticle_Torus.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/UniversalController.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Models/UniversalController.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Affordances.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Affordances/HighlightInteractionAffordance.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Affordances/HighlightInteractionAffordance.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Affordances/PokePointerAffordance.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Affordances/PokePointerAffordance.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Controllers.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Controllers/XR Controller Left.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Controllers/XR Controller Left.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Controllers/XR Controller Right.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Controllers/XR Controller Right.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Direct Interactor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Direct Interactor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Gaze Interactor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Gaze Interactor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Left_NearFarInteractor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Left_NearFarInteractor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Poke Interactor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Poke Interactor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Ray Interactor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Ray Interactor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Right_NearFarInteractor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Right_NearFarInteractor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Teleport Interactor.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Interactors/Teleport Interactor.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Permissions Manager.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Permissions Manager.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Teleport.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Teleport/Blocking Teleport Reticle.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Teleport/Blocking Teleport Reticle.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Teleport/Climb Teleport Arrow.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Teleport/Climb Teleport Arrow.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Teleport/Directional Teleport Reticle.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/Teleport/Directional Teleport Reticle.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/XR Origin (XR Rig).prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Prefabs/XR Origin (XR Rig).prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Continuous Move.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Continuous Move.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Continuous Turn.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Continuous Turn.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Dynamic Move.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Dynamic Move.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Left Controller InputActionManager.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Left Controller InputActionManager.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Left Grab Move.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Left Grab Move.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Right Controller InputActionManager.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Right Controller InputActionManager.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Right Grab Move.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Right Grab Move.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Snap Turn.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default Snap Turn.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default XR UI Input Module.preset,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Presets/XRI Default XR UI Input Module.preset.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ClimbTeleportDestinationIndicator.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ClimbTeleportDestinationIndicator.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ControllerAnimator.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ControllerAnimator.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ControllerInputActionManager.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ControllerInputActionManager.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/DestroySelf.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/DestroySelf.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/DynamicMoveProvider.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/DynamicMoveProvider.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/GazeInputManager.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/GazeInputManager.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/MaterialPipelineHandler.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/MaterialPipelineHandler.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ObjectSpawner.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ObjectSpawner.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/PermissionsManager.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/PermissionsManager.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/PlatformUnderstanding.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/PlatformUnderstanding.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/RotationAxisLockGrabTransformer.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/RotationAxisLockGrabTransformer.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/TeleportVolumeAnchorAffordanceStateLink.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/TeleportVolumeAnchorAffordanceStateLink.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ToggleColorToggler.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ToggleColorToggler.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ToggleComponentZone.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/ToggleComponentZone.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/XRPokeFollowAffordance.cs,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Scripts/XRPokeFollowAffordance.cs.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/BiRP_Fresnel.shader,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/BiRP_Fresnel.shader.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/Interactable.shadergraph,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/Interactable.shadergraph.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/UI-NoZTest.shader,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/UI-NoZTest.shader.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/Unlit_Fresnel.shadergraph,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/Unlit_Fresnel.shadergraph.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/Unlit_ShaderGraph.shadergraph,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Shaders/Unlit_ShaderGraph.shadergraph.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/StarterAssets.asmdef,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/StarterAssets.asmdef.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Textures.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Textures/DefaultMaterial_AO.png,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/Textures/DefaultMaterial_AO.png.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignette.mat,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignette.mat.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignette.prefab,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignette.prefab.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignette.shader,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignette.shader.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignetteHemisphere.fbx,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignetteHemisphere.fbx.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignetteSG.shadergraph,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/TunnelingVignette/TunnelingVignetteSG.shadergraph.meta,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/XRI Default Input Actions.inputactions,SDKサンプル（別途取得）
+Assets/Samples/XR Interaction Toolkit/3.3.0/Starter Assets/XRI Default Input Actions.inputactions.meta,SDKサンプル（別途取得）
+Assets/Scenes/SampleScene.unity,開発補助・試作・環境固有ファイル
+Assets/Scenes/SampleScene.unity.meta,開発補助・試作・環境固有ファイル
+Assets/Scenes/TestArima.unity,開発補助・試作・環境固有ファイル
+Assets/Scenes/TestArima.unity.meta,開発補助・試作・環境固有ファイル
+Assets/Screenshots.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260724-201521.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260724-201521.png.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260724-201532.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260724-201532.png.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260724-205347.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260724-205347.png.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260727-223456.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260727-223456.png.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260727-223550.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260727-223550.png.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260727-223647.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260727-223647.png.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260727-231611.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260727-231611.png.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260730-215447.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260730-215447.png.meta,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260906-001902.png,開発中のキャプチャ
+Assets/Screenshots/screenshot-20260906-001902.png.meta,開発中のキャプチャ
+Assets/StreamingAssets.meta,除外した素材・空フォルダのメタデータ
+Assets/TextMesh Pro.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - AFL.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - AFL.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - License.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold - License.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity - OFL.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity - OFL.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Fonts/Unity.ttf.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - Surface Shader Scene.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - URP.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Crate - URP.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Logo Scene.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - Surface Shader Scene.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - URP.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Ground - URP.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Materials/Small Crate_diffuse.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Prefabs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Drop Shadow.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Outline.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF - Sunny Days.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Anton SDF.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow - 2 Pass.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow - 2 Pass.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Drop Shadow.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF - Outline.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Glow.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo - URP.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo - URP.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF Logo.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Electronic Highway Sign SDF.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Metalic Green.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Overlay.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/LiberationSans SDF - Soft Mask.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Oswald Bold SDF.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Drop Shadow.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - HDRP Unlit.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - HDRP Unlit.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - Surface.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - URP.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF - URP.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Roboto-Bold SDF.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Bloom.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Bloom.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Outline.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF - HDRP LIT - Outline.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Unity SDF.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example URP.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example URP.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/27 - Double Pass Shader Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/27 - Double Pass Shader Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example.unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example/Sky and Fog Volume Profile.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/28 - HDRP Shader Example/Sky and Fog Volume Profile.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Sprites.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Sprites/DropCap Numbers.psd.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Brushed Metal 3.jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Cement.jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Floor Tiles 1 - diffuse.jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Fonts.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Sprite Assets.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Style Sheets.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/TMP Settings.asset,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Resources/TMP Settings.asset.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMPro.cginc,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMPro.cginc.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Sprites.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Sprites/EmojiOne.json,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Sprites/EmojiOne.json.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Sprites/EmojiOne.png,TextMesh Pro素材・サンプル（別途取得）
+Assets/TextMesh Pro/Sprites/EmojiOne.png.meta,TextMesh Pro素材・サンプル（別途取得）
+Assets/TutorialInfo.meta,Unityテンプレートの案内
+Assets/TutorialInfo/Icons.meta,Unityテンプレートの案内
+Assets/TutorialInfo/Icons/URP.png,Unityテンプレートの案内
+Assets/TutorialInfo/Icons/URP.png.meta,Unityテンプレートの案内
+Assets/TutorialInfo/Layout.wlt,Unityテンプレートの案内
+Assets/TutorialInfo/Layout.wlt.meta,Unityテンプレートの案内
+Assets/TutorialInfo/Scripts.meta,Unityテンプレートの案内
+Assets/TutorialInfo/Scripts/Editor.meta,Unityテンプレートの案内
+Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs,Unityテンプレートの案内
+Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs.meta,Unityテンプレートの案内
+Assets/TutorialInfo/Scripts/Readme.cs,Unityテンプレートの案内
+Assets/TutorialInfo/Scripts/Readme.cs.meta,Unityテンプレートの案内
+HANDOFF.md,開発補助・試作・環境固有ファイル
+IVRC-dumbel,開発補助・試作・環境固有ファイル
+InstantMuscle.slnx,開発補助・試作・環境固有ファイル
