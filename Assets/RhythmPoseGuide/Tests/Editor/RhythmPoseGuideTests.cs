@@ -584,7 +584,7 @@ namespace IVRC.Tests
         public void PrototypeSceneHasWiredLightweightGhostVariants()
         {
             const string scenePath =
-                "Assets/Scenes/InstantMuscle_proto.unity";
+                "Assets/Scenes/VRTrainingPrototype.unity";
             var scene = SceneManager.GetSceneByPath(scenePath);
             var openedForTest =
                 !scene.IsValid() || !scene.isLoaded;

@@ -93,7 +93,7 @@ namespace IVRC
             {
                 Debug.LogError(
                     "[RhythmPoseGuide] Required scene systems " +
-                    "were not found. Open InstantMuscle_proto " +
+                    "were not found. Open VRTrainingPrototype " +
                     "and try again.");
                 return;
             }

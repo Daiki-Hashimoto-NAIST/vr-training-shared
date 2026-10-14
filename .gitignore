@@ -25,8 +25,8 @@ Thumbs.db
 .agents/*
 !.agents/skills/
 .agents/skills/*
-!.agents/skills/instant-macho-game-design/
-!.agents/skills/instant-macho-game-design/**
+!.agents/skills/vr-training-game-design/
+!.agents/skills/vr-training-game-design/**
 .codex/
 .uloop/
 tmp/

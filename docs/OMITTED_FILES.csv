@@ -1,8 +1,8 @@
 path,reason
-.agents/skills/instant-macho-game-design/SKILL.md,ローカル開発ツール
-.agents/skills/instant-macho-game-design/agents/openai.yaml,ローカル開発ツール
-.agents/skills/instant-macho-game-design/references/instant-macho-checklist.md,ローカル開発ツール
-.agents/skills/instant-macho-game-design/references/sakurai-principles.md,ローカル開発ツール
+.agents/skills/vr-training-game-design/SKILL.md,ローカル開発ツール
+.agents/skills/vr-training-game-design/agents/openai.yaml,ローカル開発ツール
+.agents/skills/vr-training-game-design/references/vr-training-checklist.md,ローカル開発ツール
+.agents/skills/vr-training-game-design/references/sakurai-principles.md,ローカル開発ツール
 .claude/settings.json,ローカル開発ツール
 .claude/skills/uloop-clear-console/SKILL.md,ローカル開発ツール
 .claude/skills/uloop-compile/SKILL.md,ローカル開発ツール
@@ -1062,4 +1062,4 @@ Assets/TutorialInfo/Scripts/Readme.cs,Unityテンプレートの案内
 Assets/TutorialInfo/Scripts/Readme.cs.meta,Unityテンプレートの案内
 HANDOFF.md,開発補助・試作・環境固有ファイル
 IVRC-dumbel,開発補助・試作・環境固有ファイル
-InstantMuscle.slnx,開発補助・試作・環境固有ファイル
+VRTraining.slnx,開発補助・試作・環境固有ファイル

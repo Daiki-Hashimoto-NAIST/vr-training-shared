@@ -14,7 +14,7 @@ namespace IVRC.Tests
     public sealed class PlayableSceneConfigurationTests
     {
         private const string PrototypeScenePath =
-            "Assets/Scenes/InstantMuscle_proto.unity";
+            "Assets/Scenes/VRTrainingPrototype.unity";
         private const string PlayerFontPath =
             "Assets/IVRC/ThirdParty/Fonts/MPlus1p/" +
             "MPLUS1p-PlayerUI-SDF.asset";

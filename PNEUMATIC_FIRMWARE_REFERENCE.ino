@@ -51,7 +51,7 @@ int outputpwm_valve = 0;
 // Wi-Fi / UDP設定
 // ============================================================
 
-const char* SSID = "InstantMuscle";
+const char* SSID = "VRTraining";
 const char* PASS = "muscle12345";
 
 const int UDP_PORT = 5000;

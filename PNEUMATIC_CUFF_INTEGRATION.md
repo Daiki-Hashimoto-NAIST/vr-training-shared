@@ -61,7 +61,7 @@ TrainingRhythmScorer（左右をまとめた1回の運動結果）
 ## QuestのWi-Fi/UDP
 
 Androidでは `WifiNetworkSpecifier` で既存ファームウェアのSSID
-`InstantMuscle`（既存パスフレーズを使用）をローカル専用Wi-Fiとして要求する。
+`VRTraining`（既存パスフレーズを使用）をローカル専用Wi-Fiとして要求する。
 返された `Network` にESP32用 `DatagramSocket` だけを `bindSocket` し、Unityや
 Metaの他通信をプロセス全体でESP32側へ切り替えない。
 
@@ -116,7 +116,7 @@ UDP層はControllerのパルスとは別に連続 `F` 開始時刻を保持す�
 
 ## 安全なScene既定値
 
-`Assets/Scenes/InstantMuscle_proto.unity` の `Systems/PressureSystem` には、
+`Assets/Scenes/VRTrainingPrototype.unity` の `Systems/PressureSystem` には、
 Mock、Controller、UDP adapterを同居させられる。ただし既定値は次を維持する。
 
 - Controller `_useLiveOutput = false`

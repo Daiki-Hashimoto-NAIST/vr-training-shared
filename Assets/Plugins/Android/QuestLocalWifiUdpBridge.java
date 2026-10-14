@@ -1,4 +1,4 @@
-package com.instantmuscle.network;
+package com.vrtraining.network;
 
 import android.app.Activity;
 import android.content.Context;

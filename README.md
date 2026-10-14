@@ -1,4 +1,4 @@
-# Instant Muscle
+# VR Training
 
 Meta Questで筋トレとボディビルのポージングを体験する、IVRC向けのUnityプロトタイプです。HMDと左右コントローラーの入力から身体の動きを捉え、運動のタイミングを採点し、アバターの筋肉の成長やステージ演出へ反映します。
 
@@ -35,7 +35,7 @@ Meta Questで筋トレとボディビルのポージングを体験する、IVRC
 | `Assets/IVRC/Tests/Editor/` | ゲームロジックなどのEditModeテスト |
 | `Assets/RhythmPoseGuide/` | 運動ガイドのコード、シェーダー、ポーズ設定、テスト |
 | `Assets/Editor/` | シーン設定やキャプチャ用のEditorツール |
-| `Assets/Scenes/InstantMuscle_proto.unity` | 元プロジェクトのメインシーン。除外素材への参照を含む |
+| `Assets/Scenes/VRTrainingPrototype.unity` | 元プロジェクトのメインシーン。除外素材への参照を含む |
 | `Assets/Plugins/Android/` | Android用マニフェストとUDP通信のJavaコード |
 | `Packages/` / `ProjectSettings/` | Unityの依存パッケージとプロジェクト設定 |
 
@@ -44,7 +44,7 @@ Meta Questで筋トレとボディビルのポージングを体験する、IVRC
 元プロジェクトの設定はUnity `6000.3.10f1`、Meta XR SDK `203.0.1`、Meta XR Interaction SDK OVR `203.0.0`、OpenXR `1.16.1`、Unity Meta OpenXR `2.4.0` です。Meta Movement SDKも使用しています。詳細な依存関係は [manifest.json](Packages/manifest.json) と [packages-lock.json](Packages/packages-lock.json) に記録しています。
 
 ```bash
-git clone https://github.com/Daiki-Hashimoto-NAIST/InstantMuscle-Shared.git
+git clone https://github.com/Daiki-Hashimoto-NAIST/vr-training-shared.git
 ```
 
 コードを読むだけならUnityは不要です。Unityで復元する場合は、上記バージョンで開いてパッケージを取得したうえで、[除外した素材と復元時の注意](docs/PUBLIC_EXPORT.md)を確認してください。SDKサンプルや各素材の再取得、シーン・Prefabへの再割り当てが必要です。
@@ -53,7 +53,7 @@ git clone https://github.com/Daiki-Hashimoto-NAIST/InstantMuscle-Shared.git
 
 元プロジェクトのEditModeテストを収録しています。公開版では素材とSDKサンプルを除外しており、Unityコンパイル、テスト実行、Quest実機での動作は未検証です。過去の開発資料にある成功件数を、この公開版の検証結果として扱わないでください。
 
-公開用の整理では、ゲームのC#コードとテストを元の状態で保持しています。変更範囲と除外一覧は [PUBLIC_EXPORT.md](docs/PUBLIC_EXPORT.md) にまとめています。
+公開用の整理では、ゲームの処理とテストを保持し、作品名を含むシーン名や識別子を共有用の名称へ変更しています。変更範囲と除外一覧は [PUBLIC_EXPORT.md](docs/PUBLIC_EXPORT.md) にまとめています。
 
 ## 設計資料
 

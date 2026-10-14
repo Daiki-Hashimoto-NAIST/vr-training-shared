@@ -1,14 +1,14 @@
 > 開発時点の設計資料です。現在の実装と異なる記述を含むため、動作の確認にはソースコードを参照してください。公開版での動作検証は行っていません。
 
-# Instant Muscle 体験・演出統一方針
+# VR Training 体験・演出統一方針
 
 更新日: 2026-08-12  
-対象シーン: `Assets/Scenes/InstantMuscle_proto.unity`  
+対象シーン: `Assets/Scenes/VRTrainingPrototype.unity`
 状態: 縦切り実装の基準と、Quest初見テスト前の受入条件
 
 ## 1. この文書の役割
 
-この文書は、Instant Muscleのプレイヤー体験を横断する判断基準を定める。
+この文書は、VR Trainingのプレイヤー体験を横断する判断基準を定める。
 対象は次の4領域である。
 
 - 運動・ポーズ・結果を通したフィードバックの統一
@@ -1017,4 +1017,3 @@ Quest実機検証:
 - [ステージ演出](POSE_STAGE_FEEDBACK.md)
 - [結果スコア](RESULT_SCORING.md)
 - [圧迫提示の安全境界](PNEUMATIC_CUFF_INTEGRATION.md)
-- [Instant Muscle game design skill](.agents/skills/instant-macho-game-design/SKILL.md)

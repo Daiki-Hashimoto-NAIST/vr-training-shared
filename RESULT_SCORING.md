@@ -2,7 +2,7 @@
 
 # Result scoring
 
-`InstantMuscle_proto` freezes the completed training and posing values before
+`VRTrainingPrototype` freezes the completed training and posing values before
 building one final result. The result does not keep reading the live counters,
 so it stays stable while the Results screen is visible and during the retry
 transition.
